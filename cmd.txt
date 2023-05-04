@@ -1,0 +1,25 @@
+git init
+git status
+git add .
+git commit -m ""
+git remote add origin <repository URL>
+git push -u origin master
+
+esc 
+wq! to save and exitgit 
+
+npm install bootstrap@4.0.0 --save
+npm install jquery@3.3.1 popper.js@1.12.9 --save
+
+git remote add origin https://github.com/kambambindu/coursera.git
+git branch -M main
+git push -u origin main
+
+
+echo "# coursera" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kambambindu/coursera.git
+git push -u origin main
